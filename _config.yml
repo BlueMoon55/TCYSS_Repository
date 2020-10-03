@@ -1,0 +1,9 @@
+exclude: ['vendor/bundle', 'node_modules', '.git', '.bundle', '.saas-cache', '.bowerrc', '.gitignore', 'Gemfile', 'Gemfile.lock']
+title: TCYSS Repositry Test Site
+description: TCYSS Repositry からの情報提供サイト
+show_downloads: false
+google_analytics: UA-101084548-4
+theme: jekyll-theme-architect
+gems:
+  - jekyll-redirect-from
+encoding: UTF-8
