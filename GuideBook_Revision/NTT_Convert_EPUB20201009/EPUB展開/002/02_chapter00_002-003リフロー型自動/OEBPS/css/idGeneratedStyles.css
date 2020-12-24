@@ -1,0 +1,159 @@
+@font-face {
+	font-family:"A-OTF Gothic MB101 Pro DB";
+	font-style:normal;
+	font-weight:600;
+	src : url("../font/GothicMB101Pro-DeBold.otf");
+}
+@font-face {
+	font-family:"TBUDGothic Std R";
+	font-style:normal;
+	font-weight:normal;
+	src : url("../font/TBUDGoStd-Regular.otf");
+}
+@font-face {
+	font-family:"TBUDGothic Std SL";
+	font-style:normal;
+	font-weight:200;
+	src : url("../font/TBUDGoStd-SuperLight.otf");
+}
+body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	padding:0;
+	border-width:0;
+}
+body {
+	-epub-hyphens:auto;
+}
+@page {
+	margin : 0px 0px 0px 0px;
+}
+div.基本テキストフレーム {
+	border-style:solid;
+}
+p.★フキダシ {
+	-epub-line-break:normal;
+	color:#9f7126;
+	font-family:"TBUDGothic Std R", sans-serif;
+	font-size:0.769em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.4;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:center;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.ショルダー {
+	-epub-text-align-last:left;
+	color:#003b87;
+	font-family:"シネマVP pachi Regular", sans-serif;
+	font-size:1.231em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.25;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.本文 {
+	-epub-text-align-last:left;
+	color:#000000;
+	font-family:"TBUDGothic Std R", sans-serif;
+	font-size:0.923em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.667;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.ParaOverride-1 {
+	margin-bottom:6px;
+}
+p.ParaOverride-2 {
+	text-align:left;
+}
+span.CharOverride-1 {
+	font-family:"A-OTF Gothic MB101 Pro DB", sans-serif;
+	font-size:0.875em;
+	font-style:normal;
+	font-weight:600;
+}
+span.CharOverride-2 {
+	font-family:"A-OTF Gothic MB101 Pro DB", sans-serif;
+	font-size:1.375em;
+	font-style:normal;
+	font-weight:600;
+}
+span.CharOverride-3 {
+	color:#000000;
+	font-family:"TBUDGothic Std SL";
+	font-size:1.1em;
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-4 {
+	color:#000000;
+	font-family:"TBUDGothic Std SL";
+	font-style:normal;
+	font-weight:normal;
+}
+span.CharOverride-5 {
+	color:#000000;
+	font-family:"TBUDGothic Std R", sans-serif;
+	font-size:0.812em;
+	font-style:normal;
+	font-weight:normal;
+}
+#_idContainer000 {
+	display:inline-block;
+	height:420px;
+	width:307px;
+}
+#_idContainer010 {
+	display:inline-block;
+	height:79px;
+	width:67px;
+}
+#_idContainer011 {
+	display:inline-block;
+	height:416px;
+	width:307px;
+}
+img._idGenObjectAttribute-1 {
+	height:100.00%;
+	min-width:100%;
+	width:100.00%;
+}
+div._idGenObjectLayout-1 {
+	text-align:center;
+}

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<package version="3.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" prefix="ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<meta name="generator" content="Adobe InDesign 12.1" />
+		<meta property="ibooks:specified-fonts">true</meta>
+		<dc:title>chapter02_046-047_リフロー型自動</dc:title>
+		<dc:date>2020-09-30T04:35:56Z</dc:date>
+		<dc:language>ja-JP</dc:language>
+		<meta property="dcterms:modified">2020-09-30T04:35:56Z</meta>
+		<dc:identifier id="bookid">urn:uuid:29d919dd-24f5-4384-be78-b447c9dc299b</dc:identifier>
+	</metadata>
+	<manifest>
+		<item id="chapter02_046-047_印刷-固定型用" href="chapter02_046-047_%E5%8D%B0%E5%88%B7%2B%E5%9B%BA%E5%AE%9A%E5%9E%8B%E7%94%A8.xhtml" media-type="application/xhtml+xml" />
+		<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
+		<item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav" />
+		<item id="idGeneratedStyles.css" href="css/idGeneratedStyles.css" media-type="text/css" />
+		<item id="NewCinemaBStd-D.otf" href="font/NewCinemaBStd-D.otf" media-type="application/vnd.ms-opentype" />
+		<item id="x02-01イラスト.png" href="image/02-01%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88.png" media-type="image/png" />
+		<item id="x02-01イラスト1.png" href="image/02-01%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%881.png" media-type="image/png" />
+	</manifest>
+	<spine toc="ncx">
+		<itemref idref="chapter02_046-047_印刷-固定型用" />
+	</spine>
+</package>

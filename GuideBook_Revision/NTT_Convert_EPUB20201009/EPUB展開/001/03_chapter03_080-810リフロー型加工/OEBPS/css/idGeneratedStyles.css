@@ -1,0 +1,241 @@
+@font-face {
+	font-family:"A-OTF Gothic MB101 Pro B";
+	font-style:normal;
+	font-weight:bold;
+	src : url("../font/GothicMB101Pro-Bold.otf");
+}
+@font-face {
+	font-family:"A-OTF Gothic MB101 Pro DB";
+	font-style:normal;
+	font-weight:600;
+	src : url("../font/GothicMB101Pro-DeBold.otf");
+}
+@font-face {
+	font-family:"A-OTF Gothic MB101 Pro L";
+	font-style:normal;
+	font-weight:300;
+	src : url("../font/GothicMB101Pro-Light.otf");
+}
+@font-face {
+	font-family:"FOT-NewCinemaB Std D";
+	font-style:normal;
+	font-weight:600;
+	src : url("../font/NewCinemaBStd-D.otf");
+}
+@font-face {
+	font-family:"TBUDGothic Std B";
+	font-style:normal;
+	font-weight:600;
+	src : url("../font/TBUDGoStd-Bold.otf");
+}
+@font-face {
+	font-family:"TBUDGothic Std R";
+	font-style:normal;
+	font-weight:normal;
+	src : url("../font/TBUDGoStd-Regular.otf");
+}
+body, div, dl, dt, dd, h1, h2, h3, h4, h5, h6, p, pre, code, blockquote {
+	margin:0;
+	padding:0;
+	border-width:0;
+}
+body {
+	-epub-hyphens:auto;
+}
+@page {
+	margin : 0px 0px 0px 0px;
+}
+div.基本テキストフレーム {
+	border-style:solid;
+}
+p.MISSION-2020 {
+	-epub-line-break:normal;
+	-epub-text-align-last:left;
+	color:#ffffff;
+	font-family:"TBUDGothic Std B", sans-serif;
+	font-size:1.077em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:600;
+	line-height:1.571;
+	margin-bottom:0;
+	margin-left:11px;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:-11px;
+	text-transform:none;
+	widows:1;
+}
+p.ショルダー2020青 {
+	-epub-line-break:normal;
+	-epub-text-align-last:left;
+	color:#003b87;
+	font-family:"FOT-NewCinemaB Std D", serif;
+	font-size:1.046em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:600;
+	line-height:1.25;
+	margin-bottom:3px;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.タイトル_ニューシネマに青 {
+	-epub-text-align-last:left;
+	color:#003b87;
+	font-family:"FOT-NewCinemaB Std D", serif;
+	font-size:2.538em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:600;
+	line-height:1.212;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.中見出し-アイコンあり {
+	-epub-line-break:normal;
+	-epub-text-align-last:left;
+	color:#000000;
+	font-family:"A-OTF Gothic MB101 Pro B", sans-serif;
+	font-size:1.538em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:bold;
+	line-height:1;
+	margin-bottom:14px;
+	margin-left:34px;
+	margin-right:0;
+	margin-top:14px;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.小見出し {
+	-epub-line-break:normal;
+	-epub-text-align-last:left;
+	color:#000000;
+	font-family:"A-OTF Gothic MB101 Pro DB", sans-serif;
+	font-size:1.077em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:600;
+	line-height:1.429;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.本文 {
+	-epub-line-break:normal;
+	-epub-text-align-last:left;
+	color:#000000;
+	font-family:"TBUDGothic Std R", sans-serif;
+	font-size:0.923em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.667;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+p.注釈 {
+	-epub-line-break:normal;
+	-epub-text-align-last:left;
+	color:#000000;
+	font-family:"A-OTF Gothic MB101 Pro L", sans-serif;
+	font-size:0.769em;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:300;
+	line-height:1.4;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:justify;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+span.上付 {
+	vertical-align:super;
+}
+p.ParaOverride-1 {
+	margin-left:0px;
+	text-align:left;
+}
+p.ParaOverride-2 {
+	margin-left:0px;
+}
+span._idGenCharOverride-1 {
+	font-size:58%;
+}
+#_idContainer005 {
+	display:inline-block;
+	width:100%;
+}
+img._idGenObjectAttribute-1 {
+	height:100.00%;
+	min-width:100%;
+	width:100.00%;
+}
+div._idGenObjectStyleOverride-1 {
+	background-color:#003b87;
+}
+div._idGenObjectStyleOverride-2 {
+	background-color:#777bb0;
+}
+div._idGenObjectLayout-1 {
+	text-align:center;
+}

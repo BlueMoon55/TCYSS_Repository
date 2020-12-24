@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<package version="3.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="bookid" prefix="rendition: http://www.idpf.org/vocab/rendition/# ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/">
+	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+		<meta name="generator" content="Adobe InDesign 12.1" />
+		<meta property="ibooks:specified-fonts">true</meta>
+		<dc:title>chapter02_046-047_固定型</dc:title>
+		<dc:date>2020-09-30T04:35:16Z</dc:date>
+		<dc:language>ja-JP</dc:language>
+		<meta property="dcterms:modified">2020-09-30T04:35:17Z</meta>
+		<dc:identifier id="bookid">urn:uuid:352CE560-431D-4B33-9D51-97F02F2094FA</dc:identifier>
+		<!--fixed-layout options-->
+		<meta property="rendition:layout">pre-paginated</meta>
+		<meta property="rendition:orientation">landscape</meta>
+		<meta property="rendition:spread">none</meta>
+	</metadata>
+	<manifest>
+		<item id="chapter02_046-047_印刷-固定型用-1" href="chapter02_046-047_%E5%8D%B0%E5%88%B7%2B%E5%9B%BA%E5%AE%9A%E5%9E%8B%E7%94%A8-1.xhtml" media-type="application/xhtml+xml" />
+		<item id="toc" href="toc.xhtml" media-type="application/xhtml+xml" properties="nav" />
+		<item id="idGeneratedStyles.css" href="css/idGeneratedStyles.css" media-type="text/css" />
+		<item id="NewCinemaBStd-D.otf" href="font/NewCinemaBStd-D.otf" media-type="application/vnd.ms-opentype" />
+		<item id="x02-01イラスト.png" href="image/02-01%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%88.png" media-type="image/png" />
+		<item id="x02-01イラスト1.png" href="image/02-01%E3%82%A4%E3%83%A9%E3%82%B9%E3%83%881.png" media-type="image/png" />
+		<item id="x1.png" href="image/1.png" media-type="image/png" />
+		<item id="x10.png" href="image/10.png" media-type="image/png" />
+		<item id="x11.png" href="image/11.png" media-type="image/png" />
+		<item id="x12.png" href="image/12.png" media-type="image/png" />
+		<item id="x13.png" href="image/13.png" media-type="image/png" />
+		<item id="x14.png" href="image/14.png" media-type="image/png" />
+		<item id="x15.png" href="image/15.png" media-type="image/png" />
+		<item id="x16.png" href="image/16.png" media-type="image/png" />
+		<item id="x17.png" href="image/17.png" media-type="image/png" />
+		<item id="x18.png" href="image/18.png" media-type="image/png" />
+		<item id="x19.png" href="image/19.png" media-type="image/png" />
+		<item id="x21.png" href="image/21.png" media-type="image/png" />
+		<item id="x22.png" href="image/22.png" media-type="image/png" />
+		<item id="x23.png" href="image/23.png" media-type="image/png" />
+		<item id="x24.png" href="image/24.png" media-type="image/png" />
+		<item id="x25.png" href="image/25.png" media-type="image/png" />
+		<item id="x26.png" href="image/26.png" media-type="image/png" />
+		<item id="x27.png" href="image/27.png" media-type="image/png" />
+		<item id="x3.png" href="image/3.png" media-type="image/png" />
+		<item id="x30.png" href="image/30.png" media-type="image/png" />
+		<item id="x31.png" href="image/31.png" media-type="image/png" />
+		<item id="x32.png" href="image/32.png" media-type="image/png" />
+		<item id="x36.png" href="image/36.png" media-type="image/png" />
+		<item id="x38.png" href="image/38.png" media-type="image/png" />
+		<item id="x4.png" href="image/4.png" media-type="image/png" />
+		<item id="x40.png" href="image/40.png" media-type="image/png" />
+		<item id="x42.png" href="image/42.png" media-type="image/png" />
+		<item id="x44.png" href="image/44.png" media-type="image/png" />
+		<item id="x46.png" href="image/46.png" media-type="image/png" />
+		<item id="x48.png" href="image/48.png" media-type="image/png" />
+		<item id="x5.png" href="image/5.png" media-type="image/png" />
+		<item id="x6.png" href="image/6.png" media-type="image/png" />
+		<item id="x7.png" href="image/7.png" media-type="image/png" />
+		<item id="x8.png" href="image/8.png" media-type="image/png" />
+		<item id="x9.png" href="image/9.png" media-type="image/png" />
+		<item id="background.jpg" href="image/background.jpg" media-type="image/jpeg" />
+	</manifest>
+	<spine>
+		<itemref idref="chapter02_046-047_印刷-固定型用-1" />
+	</spine>
+</package>
